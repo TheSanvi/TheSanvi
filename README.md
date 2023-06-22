@@ -1,7 +1,6 @@
 # 💫 About Me:
 📷 Passionate B.Tech student, diving into the captivating worlds<br> of Android and iOS development. <br>📱✨ Capturing moments through my lens, while unraveling the <br>wonders of ECE.<br>🌟 Follow along on my journey as I bring creativity and innovation<br> to life!<br>I thrive on the thrill of turning ideas into functional code.<br> When I'm not immersed in coding, you'll find me<br> capturing mesmerizing moments with my camera.<br><br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanvi-verma-b2928025b/) 
 
