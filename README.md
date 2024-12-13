@@ -28,13 +28,5 @@
 
 ---
 
-## 🔗 Let's Connect
-
-- 📧 [Email Me](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
-
----
-
 🚀 _"Building the future, one app at a time!"_
 
