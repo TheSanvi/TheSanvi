@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm TheSanvi!
+## 👋 Hey there, I'm Sanvi!
 
 🎨 Crafting sleek Android apps with **Flutter** and diving into **Machine Learning** magic!
 
