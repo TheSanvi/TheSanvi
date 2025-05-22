@@ -1,1 +1,1 @@
-## 👋 Hey there, I'm Sanvi!
+##  Hey there, I'm Sanvi!
